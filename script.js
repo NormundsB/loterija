@@ -1,0 +1,1 @@
+alert("Viss strādā - skripts iet!")
