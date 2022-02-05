@@ -3,7 +3,8 @@ const balvas = ["Ledusskapis", "Fotoaparāts", "Kafijas automāts"];
 const naudaKopa = 1000000;
 
 let uzvaretajuSkaits = 3;
-
+let rindas = document.querySelector(".rindas");
+rindas.innerHTML = "Janis"
 
 
 for (let i = 0; i < uzvaretajuSkaits; i++) {
