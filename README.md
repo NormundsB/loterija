@@ -1,0 +1,2 @@
+# loterija
+Mācību projekts
