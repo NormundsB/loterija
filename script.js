@@ -4,7 +4,12 @@ const naudaKopa = 1000000;
 
 let uzvaretajuSkaits = 3;
 
-let rand = Math.random() * vardi.length;
-rand = Math.floor(rand);
 
-console.log(vardi[rand])
+
+for (let i = 0; i < uzvaretajuSkaits; i++) {
+
+    let rand = Math.random() * vardi.length;
+    rand = Math.floor(rand);
+
+    console.log(vardi[rand]);
+}
